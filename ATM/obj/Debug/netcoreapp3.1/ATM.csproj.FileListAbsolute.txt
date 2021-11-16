@@ -1,0 +1,14 @@
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.AssemblyReference.cache
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.CoreCompileInputs.cache
+D:\PROJECTS\OFFICE\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+D:\PROJECTS\OFFICE\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+D:\PROJECTS\OFFICE\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+D:\PROJECTS\OFFICE\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+D:\PROJECTS\OFFICE\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+D:\PROJECTS\OFFICE\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
+D:\PROJECTS\OFFICE\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.genruntimeconfig.cache
